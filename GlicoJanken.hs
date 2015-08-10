@@ -1,6 +1,6 @@
 --Author: Ryuichiro S
 --Date: 2015/07/01
---教授が配布したじゃんけんプログラムを参考にしました
+--教授が配布した資料を参考にしました
 
 module GlicoJanken where
 import System.Random
